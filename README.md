@@ -13,18 +13,6 @@ rocketGo is an interactive game where you control a rocket's altitude using the 
 - Go 1.16 or higher
 - Ebiten v2 game engine
 
-## Installation
-
-1. Clone or download this project to your local machine
-2. Navigate to the project directory:
-   ```bash
-   cd c:\DATA\rocketGo
-   ```
-3. Install dependencies:
-   ```bash
-   go mod download
-   ```
-
 ## Running the Game
 
 ### Option 1: Using Make (Recommended)
